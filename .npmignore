@@ -1,0 +1,9 @@
+src/
+public/
+package-lock.json
+node_modules/
+public/
+.gitignore
+babel.config.js
+jsconfig.json
+vue.config.js
