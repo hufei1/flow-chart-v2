@@ -48,5 +48,9 @@
   "keywords": [
     "flow chart",
     "vue流程图"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hufei1/flow-chart-static-vue.git"
+  }
 }
